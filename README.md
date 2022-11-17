@@ -5,7 +5,7 @@ Sou um acadêmico do 7º período em Sistemas de Informação na Universidade Fe
 💻 Sei um pouco sobre PHP, Javascript e Typescript <br>
 🤓 Utilizo frameworks como React.js, Symfony, Laravel e Socket.io além de saber utilizar Node.js. <br>
 👨🏻‍💻 Conheço bancos de dados relacionais e não relacionais, como Postgres, Mysql, MongoDB e Redis. <br>
-💡 Conheço ORM's como Sequelize, Prima e o próprio eloquent, do laravel. <br>
+💡 Conheço ORM's como Sequelize, Prisma e o próprio eloquent, do laravel. <br>
 ☁️  Entendo um pouco de serviços AWS, como S3, ECS, SQS, Lambda Functions entre outros... <br>
 🐋 Consigo também conteinerizar aplicações através do Docker. <br>
 💬 Apaixonado por tecnologias, games e séries. <br><br>
