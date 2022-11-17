@@ -8,5 +8,6 @@ Sou um acadêmico do 7º período em Sistemas de Informação na Universidade Fe
 💡 Conheço ORM's como Sequelize, Prima e o próprio eloquent, do laravel. <br>
 ☁️  Entendo um pouco de serviços AWS, como S3, ECS, SQS, Lambda Functions entre outros... <br>
 🐋 Consigo também conteinerizar aplicações através do Docker. <br>
-💬 Apaixonado por tecnologias, games e séries. <br> 
-📫 Como me achar: [![Linkedin Badge](https://img.shields.io/badge/-MatheusRubio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rubio-341499179/)](https://www.linkedin.com/in/matheus-rubiom/) [![Gmail Badge](https://img.shields.io/badge/-matheus.rubio@ice.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.rubio@ice.ufjf.br)](mailto:matheus.rubio@ice.ufjf.br) 
+💬 Apaixonado por tecnologias, games e séries. <br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusRubio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rubio-341499179/)](https://www.linkedin.com/in/matheus-rubiom/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheus.rubio@ice.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.rubio@ice.ufjf.br)](mailto:matheus.rubio@ice.ufjf.br) 
